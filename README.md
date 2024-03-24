@@ -9,3 +9,7 @@ Welcome to:
 ## Contact Page
 
 ### This website is an educational walkthrough website
+
+#### Google maps API
+#### Github API
+#### EmailJS software development kit and API 
